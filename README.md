@@ -1,4 +1,3 @@
-
 <!-- GitHub profile README | baboub2013-bot -->
 
 <div align="center">
@@ -11,7 +10,7 @@
 
   <p>
     <a href="https://www.youtube.com/@Babou.223"><img height="28" alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" /></a>
-    <a href="https://guns.lol/babou.223"><img height="28" alt="guns.lol logo" src="https://imglink.cc/cdn/pZE3Jn0Jgu.webp" /><img height="28" alt="guns.lol" src="https://img.shields.io/badge/guns.lol-9059A4?style=for-the-badge" /></a>
+    <a href="https://guns.lol/babou.223"><img height="28" alt="guns.lol logo" src="assets/gunslol.webp" /><img height="28" alt="guns.lol" src="https://img.shields.io/badge/guns.lol-9059A4?style=for-the-badge" /></a>
     <a href="https://www.patreon.com/cw/Babou762"><img height="28" alt="Patreon" src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&amp;logo=patreon&amp;logoColor=white" /></a>
     <a href="https://buymeacoffee.com/baboukindadev"><img height="28" alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=000000" /></a>
   </p>
@@ -34,8 +33,7 @@ A browser extension project with custom Roblox profile and inventory interfaces,
 
 *Personal project, not affiliated with Roblox.*
 
-<!-- When you have a real screenshot, add it at assets/roblox-tools-preview.webp
-     and uncomment the following line:
+<!-- Add a real screenshot as assets/roblox-tools-preview.webp, then remove these comment markers.
 <p align="center"><img src="assets/roblox-tools-preview.webp" width="760" alt="Roblox Tools extension preview" /></p>
 -->
 
