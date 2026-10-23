@@ -11,7 +11,7 @@
 
   <p>
     <a href="https://www.youtube.com/@Babou.223"><img height="28" alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" /></a>
-    <a href="https://guns.lol/babou.223"><img height="28" alt="guns.lol logo" src="https://imglink.cc/cdn/pZE3Jn0Jgu.webp" /><img height="28" alt="guns.lol" src="https://img.shields.io/badge/guns.lol-9059A4?style=for-the-badge&amp;logoColor=white" /></a>
+    <a href="https://guns.lol/babou.223"><img height="28" alt="guns.lol logo" src="https://imglink.cc/cdn/pZE3Jn0Jgu.webp" /><img height="28" alt="guns.lol" src="https://img.shields.io/badge/guns.lol-9059A4?style=for-the-badge" /></a>
     <a href="https://www.patreon.com/cw/Babou762"><img height="28" alt="Patreon" src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&amp;logo=patreon&amp;logoColor=white" /></a>
     <a href="https://buymeacoffee.com/baboukindadev"><img height="28" alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=000000" /></a>
   </p>
@@ -22,7 +22,7 @@
 
 I bounce between browser extensions, Roblox Studio, and Minecraft projects. I like taking an idea for a feature and seeing if I can actually make it work.
 
-I build solo, mess around with interfaces a lot, and somehow always end up spending an hour fixing one button.
+I build solo, mess around with interfaces a lot, and somehow always end up spending an hour fixing one button. I also use Python now and then for small scripts.
 
 ## What I'm building
 
