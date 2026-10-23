@@ -33,9 +33,18 @@ A browser extension project with custom Roblox profile and inventory interfaces,
 
 *Personal project, not affiliated with Roblox.*
 
-<!-- Add a real screenshot as assets/roblox-tools-preview.webp, then remove these comment markers.
-<p align="center"><img src="assets/roblox-tools-preview.webp" width="760" alt="Roblox Tools extension preview" /></p>
--->
+<p align="center">
+  <img src="assets/roblox-tools-preview-v1.webp" width="740" alt="Roblox Tools v2.7.0 — extension popup and profile settings" />
+</p>
+
+<details>
+  <summary><strong>View more screenshots</strong></summary>
+  <br />
+  <p align="center">
+    <img src="assets/roblox-tools-messages-inventory-v1.webp" width="48%" alt="Roblox Tools — Messages and Inventory" />
+    <img src="assets/roblox-tools-streamer-appearance-v1.webp" width="48%" alt="Roblox Tools — Streamer mode and Appearance settings" />
+  </p>
+</details>
 
 ### 🎮 Roblox Studio
 
