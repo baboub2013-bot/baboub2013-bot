@@ -1,116 +1,96 @@
-
-<!-- ==================== HEADER ==================== -->
+<!-- Profile README for github.com/baboub2013-bot -->
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=BABOU&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Solo%20Developer%20%7C%20Creative%20Coding&descSize=18&descAlignY=57" alt="Babou banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:1F6FEB&amp;height=185&amp;section=header&amp;text=BABOU&amp;fontSize=68&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=39&amp;desc=SOFTWARE%20%2F%20EXTENSIONS%20%2F%20GAME%20SYSTEMS&amp;descSize=14&amp;descAlignY=61" width="100%" alt="Babou — software, extensions and game systems" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Babou!;I+build+software+and+cool+things.;Code.+Create.+Improve.+Repeat." alt="Typing animation"/>
+  **Independent developer · curious by default · building things for fun**
 
+  <!-- Brand-colored badges. The guns.lol image URL is temporary: save the image as assets/gunslol.webp in this repository and update its src before Nov 22, 2026. -->
   <p>
-    <a href="https://github.com/baboub2013-bot">
-      <img src="https://img.shields.io/badge/GitHub-Babou-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <a href="https://www.youtube.com/@Babou.223">
+      <img alt="YouTube" height="28" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" />
     </a>
-    <img src="https://img.shields.io/github/followers/baboub2013-bot?style=for-the-badge&logo=github&color=238636&label=Followers"/>
-    <img src="https://komarev.com/ghpvc/?username=baboub2013-bot&style=for-the-badge&color=1F6FEB&label=Profile+Views"/>
+    <a href="https://guns.lol/babou.223"><img alt="guns.lol logo" height="28" src="https://plain-weur-prod-public.komododecks.com/202610/23/JdYZo09Xeb6zFzM95NAK/image.webp" /><img alt="guns.lol · Babou.223" height="28" src="https://img.shields.io/badge/guns.lol-9059A4?style=for-the-badge" /></a>
+    <a href="https://www.patreon.com/cw/Babou762">
+      <img alt="Patreon" height="28" src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&amp;logo=patreon&amp;logoColor=white" />
+    </a>
+    <a href="https://buymeacoffee.com/baboukindadev">
+      <img alt="Buy Me a Coffee" height="28" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=000000" />
+    </a>
   </p>
 
 </div>
 
----
+## Hey, I'm Babou 👋
 
-<!-- ==================== ABOUT ==================== -->
+I build browser extensions, experiment with game systems, and make tools that let people customize their experience. Most of my projects start with a feature I'd like to exist — so I try making it myself.
 
+My interests sit somewhere between **practical software**, **client-side customization**, and **game development**. I'm still learning, and I like understanding how something works instead of just getting it to run.
 
-## 👋 About Me
+### What I'm working on
 
-Hey! I'm **Babou**, a solo developer who enjoys creating software, extensions, plugins and game-related projects.
+**🧩 Roblox Tools** · *Browser extension project*
 
-- 🌱 I'm new to GitHub and still learning my way around!
-- 💻 I enjoy building useful tools and experimenting with new ideas.
-- 🐍 I occasionally code in Python.
-- 🧩 Interested in browser extensions and custom integrations.
-- 🎮 Exploring game development and Minecraft modding.
-- 🚀 Always improving my projects and learning new things.
-- ⚡ I love turning random ideas into actual software.
+A collection of customization features for Roblox, including profile and inventory interfaces, appearance settings, and a streamer mode designed to hide sensitive on-screen details. It's a personal project, not an official Roblox product.
 
-> **Code. Create. Improve. Repeat.**
+**🎮 Roblox Studio experiments** · *Luau / UI systems*
 
+Interactive interfaces, scripting, admin tools, and small gameplay experiments. I especially enjoy turning a rough idea into something you can actually click and use.
 
-<!-- ==================== SKILLS ==================== -->
+**⛏️ Minecraft server systems** · *Java / Paper*
 
-## 🛠️ Tech Stack
+Experimenting with player utilities, commands, dialogue-based menus, and gameplay systems for Minecraft servers.
 
-<div align="center">
+> These are ongoing experiments and personal projects; not everything here has a public repository or a release.
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,java,py&theme=dark" alt="Programming languages"/>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,robloxstudio&theme=dark" alt="Development tools"/>
-
-</div>
-
-<!-- ==================== PROJECTS ==================== -->
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌈 Iris.ts</h3>
-      <p>A custom Vencord userplugin for locally customizing Discord profile elements.</p>
-      <p>
-        <a href="https://github.com/baboub2013-bot/Iris.ts">
-          <img src="https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>⚔️ SpearTech</h3>
-      <p>A Meteor Client addon for Minecraft, focused on spear combat, movement and visual tools.</p>
-      <p>
-        <a href="https://github.com/baboub2013-bot/SpearTech">
-          <img src="https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- ==================== STATS ==================== -->
-
-## 📊 GitHub Statistics
+## Tools I use
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=baboub2013-bot&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+  **Languages & web technologies**
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baboub2013-bot&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages"/>
+  <br />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,lua,py&amp;theme=dark" alt="JavaScript, TypeScript, HTML, CSS, Java, Lua and Python" />
+
+  <br /><br />
+  **Tools & platforms**
+
+  <br />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,robloxstudio&amp;theme=dark" alt="Visual Studio Code, Git, GitHub and Roblox Studio" />
 
 </div>
 
-<!-- ==================== PHILOSOPHY ==================== -->
+<sub>Lua is shown for my Roblox scripting work (Roblox uses Luau). Python is something I use occasionally, rather than my main focus.</sub>
 
-## 💡 Development Philosophy
+## What's on my GitHub?
+
+My pinned repositories below are the best place to explore the code itself. They include **[Iris.ts](https://github.com/baboub2013-bot/Iris.ts)**, an experimental Vencord userplugin for local Discord profile customization, and **[SpearTech](https://github.com/baboub2013-bot/SpearTech)**, a Meteor Client addon for Minecraft spear mechanics and related utilities.
+
+I keep project-specific features, setup instructions, and limitations in each repository's README instead of repeating them here.
+
+## A little about how I build
 
 ```text
-> Have an idea
-> Build a prototype
-> Break something
-> Fix it
-> Make it better
-> Ship it
+have an idea
+    ↓
+make a rough version
+    ↓
+break it (probably)
+    ↓
+understand what went wrong
+    ↓
+make it better
+    ↓
+ship when it's ready
 ```
+
+I care about **useful features**, **clean interfaces**, and the little details that make software feel good to use.
+
+---
 
 <div align="center">
 
-  ### Thanks for visiting! 👋
-
-  <sub>Built with curiosity, code and a lot of debugging.</sub>
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=110&section=footer" alt="Footer"/>
+  <sub>Thanks for stopping by. There's probably another experiment in progress.</sub>
 
 </div>
