@@ -79,6 +79,12 @@ Experimenting with **Java** and **Paper**: server commands, dialogue-style menus
 
 The pinned repositories below have the code and project details.
 
+## Transparency
+
+I sometimes use AI to help with debugging. If I use it in a project or file, I disclose it and explain why.
+
+[Read my transparency statement →](TRANSPARENCY.md)
+
 ## How it usually goes
 
 ```text
