@@ -41,8 +41,10 @@ A browser extension project with custom Roblox profile and inventory interfaces,
   <summary><strong>View more screenshots</strong></summary>
   <br />
   <p align="center">
-    <img src="assets/roblox-tools-messages-inventory-v1.webp" width="48%" alt="Roblox Tools — Messages and Inventory" />
-    <img src="assets/roblox-tools-streamer-appearance-v1.webp" width="48%" alt="Roblox Tools — Streamer mode and Appearance settings" />
+    <img src="assets/roblox-tools-messages-inventory-v1.webp" width="740" alt="Roblox Tools — Messages and Inventory" />
+  </p>
+  <p align="center">
+    <img src="assets/roblox-tools-streamer-appearance-v1.webp" width="740" alt="Roblox Tools — Streamer mode and Appearance settings" />
   </p>
 </details>
 
@@ -83,13 +85,13 @@ The pinned repositories below have the code and project details.
 
 I sometimes use AI to help with debugging, understanding errors, or exploring possible fixes. Here's how I handle it:
 
-- **AI disclosures:** If AI helps create or meaningfully modify a file, I add a comment at the top explaining what it was used for and why. If the assistance affects a whole project, I also note it in that project's README.
-- **Review and testing:** I review AI suggestions myself and test changes before treating them as finished. AI-generated output isn't automatically correct.
-- **Credits:** I aim to credit outside code, resources, and contributors instead of presenting their work as entirely mine.
-- **Privacy:** I avoid sharing credentials, private information, or sensitive project data with AI tools.
-- **Corrections:** If I miss a disclosure or credit, I'll correct it when I notice.
-
-**AI is a tool I sometimes use, not a replacement for understanding the code.**
+- AI disclosures: If AI helps create or meaningfully modify a file, I add a comment at the top explaining what it was used for and why. If the assistance affects a whole project, I also note it in that project's README.
+- Review and testing: I review AI suggestions myself and test changes before treating them as finished. AI-generated output isn't automatically correct.
+- Credits: I aim to credit outside code, resources, and contributors instead of presenting their work as entirely mine.
+- Privacy: I avoid sharing credentials, private information, or sensitive project data with AI tools.
+- Corrections: If I miss a disclosure or credit, I'll correct it when I notice.
+  
+AI is a tool I sometimes use, not a replacement for understanding the code.
 
 ## How it usually goes
 
