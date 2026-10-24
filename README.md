@@ -79,11 +79,17 @@ Experimenting with **Java** and **Paper**: server commands, dialogue-style menus
 
 The pinned repositories below have the code and project details.
 
-## Transparency
+## 🔎 Transparency
 
-I sometimes use AI to help with debugging. If I use it in a project or file, I disclose it and explain why.
+I sometimes use AI to help with debugging, understanding errors, or exploring possible fixes. Here's how I handle it:
 
-[Read my transparency statement →](TRANSPARENCY.md)
+- **AI disclosures:** If AI helps create or meaningfully modify a file, I add a comment at the top explaining what it was used for and why. If the assistance affects a whole project, I also note it in that project's README.
+- **Review and testing:** I review AI suggestions myself and test changes before treating them as finished. AI-generated output isn't automatically correct.
+- **Credits:** I aim to credit outside code, resources, and contributors instead of presenting their work as entirely mine.
+- **Privacy:** I avoid sharing credentials, private information, or sensitive project data with AI tools.
+- **Corrections:** If I miss a disclosure or credit, I'll correct it when I notice.
+
+**AI is a tool I sometimes use, not a replacement for understanding the code.**
 
 ## How it usually goes
 
